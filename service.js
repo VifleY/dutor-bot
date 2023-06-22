@@ -9,7 +9,7 @@ const INIT_TRIGGER = {
 }
 
 const INIT_PROPERTIES = {
-    "dutyCount": 2,
+    "dutyCount": 1,
     "countPeople": 0,
     "lastDuty": []
 }
