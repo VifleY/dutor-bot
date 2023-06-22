@@ -2,7 +2,7 @@ const { ServiceError } = require('./errors')
 
 const PROPERTIES_NAME = 'properties.json';
 const TRIGGER_FOLDER_NAME = 'trigger';
-const BUCKET_NAME = 'duty-group-bot-storage';
+const BUCKET_NAME = 'pico-duty-bot-storage';
 
 const INIT_TRIGGER = {
     "time": 9
